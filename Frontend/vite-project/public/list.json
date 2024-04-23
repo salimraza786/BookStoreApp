@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Math Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 80,
+    "category": "Math",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Science Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 50,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Chemestry Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 40,
+    "category": "Chemestry",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Biology Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 70,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Design Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 100,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 7,
+    "name": "DSA Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 250,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Zym Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 150,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 9,
+    "name": "News Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 30,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Drwing Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 120,
+    "category": "Drwing",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  },
+  {
+    "id": 11,
+    "name": "React Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 500,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1713767627~exp=1713771227~hmac=f5113a81dc27e85a3f60278f0a36af3e8efc1a2d5f89586bf526f1f66966d91e&w=740"
+  }
+]

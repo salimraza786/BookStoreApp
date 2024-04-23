@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 2,
+    "name": "Math Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 80,
+    "category": "Math",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 3,
+    "name": "Science Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 50,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 4,
+    "name": "Data Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 40,
+    "category": "Chemestry",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 5,
+    "name": "Biology Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 70,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 6,
+    "name": "Design Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 100,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 7,
+    "name": "DSA Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 250,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 8,
+    "name": "Zym Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 150,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 9,
+    "name": "News Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 30,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 10,
+    "name": "Drwing Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 120,
+    "category": "Drwing",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 11,
+    "name": "React Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 500,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  },
+  {
+    "id": 12,
+    "name": "JS Book",
+    "title": "  sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 500,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1713850271~exp=1713853871~hmac=a96c9f8dcf0e661ffc2a25c631f8645d9cd7c102da826122001506a630e7c1f3&w=1060"
+  }
+]
