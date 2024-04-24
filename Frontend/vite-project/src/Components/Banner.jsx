@@ -4,7 +4,7 @@ import banner from "../../public/Banner.jpg";
 const Banner = () => {
   return (
     <>
-      <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10 gap-10">
+      <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10 gap-10 ">
         {/* left part */}
         <div className="md:w-1/2 w-full mt:12 md:mt-32 order-2 md:order-1">
           <div className="space-y-10">
@@ -33,7 +33,7 @@ const Banner = () => {
             </label>
           </div>
           <button className="btn btn-active mt-6 btn-secondary">
-            Secondary
+            Get Started
           </button>
         </div>
         {/* right part */}
